@@ -3,3 +3,4 @@ more text
 This is a change in the middle of the file
 more text
 more text
+more text
